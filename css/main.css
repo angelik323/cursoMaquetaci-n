@@ -107,6 +107,8 @@ nav .profile-link a {
     background: #47cfac;
     display: grid;
     align-items: center;
+    border-radius: 5px;
+    box-shadow: 2;
 }
 
 .home-main-buttom a {
