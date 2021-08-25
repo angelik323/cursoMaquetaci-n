@@ -12,6 +12,11 @@ a {
     color: black;
 }
 
+.grid-container {
+    max-width: 980px;
+    margin: auto;
+}
+
 .home-body {
     position: fixed;
     top: 0;
