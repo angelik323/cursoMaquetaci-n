@@ -198,3 +198,24 @@ footer p {
     color: white;
     text-align: center;
 }
+
+.blog-img {
+    padding: 0 50px 40px;
+}
+
+.blog-img img {
+    width: 100%;
+}
+
+.blog-contenido {
+    padding: 0 50px 40px;
+}
+
+.blog-contenido h3 {
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 20px;
+}
+
+.blog-contenido h1 {
+    font-size: 40px;
+}
